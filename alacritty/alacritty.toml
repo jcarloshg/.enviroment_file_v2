@@ -1,0 +1,10 @@
+[window]
+padding.x = 5
+padding.y = 5
+
+
+[font]
+normal.family= "JetBrainsMonoNL Nerd Font"
+bold.family= "JetBrainsMonoNL Nerd Font"
+italic.family= "JetBrainsMonoNL Nerd Font"
+size=16
