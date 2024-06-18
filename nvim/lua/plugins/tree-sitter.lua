@@ -6,11 +6,12 @@ return {
 	build = ":TSUpdate",
 	event = "VeryLazy",
 	main = "nvim-treesitter.configs",
-	opt = {
+	opts = {
 		ensure_installed = {
 			"lua",
 			"luadoc",
 			"typescript",
+			"tsx",
 			"cpp",
 		},
 		highlight = {
